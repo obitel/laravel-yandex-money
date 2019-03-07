@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.5.0",
         "illuminate/support": "5.5.*|5.6.*|5.7.*",
-        "yandex-money/yandex-money-sdk-php": "dev-master"
+        "yandex-money/yandex-money-sdk-php": "^3.0"
     },
     "require-dev": {
         "graham-campbell/testbench": "^5.1",
