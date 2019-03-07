@@ -1,10 +1,10 @@
 <?php
 
-namespace TkachevO\Tests\LaravelYandexMoney\Facades;
+namespace obitel\Tests\LaravelYandexMoney\Facades;
 
-use TkachevO\LaravelYandexMoney\YandexMoneyManager;
-use TkachevO\LaravelYandexMoney\Facades\YandexMoney;
-use TkachevO\Tests\LaravelYandexMoney\AbstractTestCase;
+use obitel\LaravelYandexMoney\YandexMoneyManager;
+use obitel\LaravelYandexMoney\Facades\YandexMoney;
+use obitel\Tests\LaravelYandexMoney\AbstractTestCase;
 use GrahamCampbell\TestBenchCore\FacadeTrait;
 
 class YandexMoneyTest extends AbstractTestCase
