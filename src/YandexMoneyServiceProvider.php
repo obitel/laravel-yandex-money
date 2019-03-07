@@ -1,6 +1,6 @@
 <?php
 
-namespace TkachevO\LaravelYandexMoney;
+namespace obitel\LaravelYandexMoney;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Container\Container;
