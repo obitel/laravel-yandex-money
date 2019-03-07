@@ -31,21 +31,21 @@
     },
     "autoload": {
         "psr-4": {
-            "TkachevO\\LaravelYandexMoney\\": "src"
+            "obitel\\LaravelYandexMoney\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "TkachevO\\Tests\\LaravelYandexMoney\\": "tests/"
+            "obitel\\Tests\\LaravelYandexMoney\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "TkachevO\\LaravelYandexMoney\\YandexMoneyServiceProvider"
+                "obitel\\LaravelYandexMoney\\YandexMoneyServiceProvider"
             ],
             "aliases": {
-                "YandexMoney": "TkachevO\\LaravelYandexMoney\\Facades\\YandexMoney"
+                "YandexMoney": "obitel\\LaravelYandexMoney\\Facades\\YandexMoney"
             }
         }
     }
