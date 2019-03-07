@@ -2,7 +2,7 @@
 
 namespace obitel\Tests\LaravelYandexMoney;
 
-use TkachevO\LaravelYandexMoney\YandexMoneyServiceProvider;
+use obitel\LaravelYandexMoney\YandexMoneyServiceProvider;
 use GrahamCampbell\TestBench\AbstractPackageTestCase;
 
 /**
