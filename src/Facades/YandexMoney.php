@@ -6,7 +6,7 @@
  * Time: 11:35
  */
 
-namespace TkachevO\LaravelYandexMoney\Facades;
+namespace obitel\LaravelYandexMoney\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
