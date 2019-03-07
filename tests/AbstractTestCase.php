@@ -1,6 +1,6 @@
 <?php
 
-namespace TkachevO\Tests\LaravelYandexMoney;
+namespace obitel\Tests\LaravelYandexMoney;
 
 use TkachevO\LaravelYandexMoney\YandexMoneyServiceProvider;
 use GrahamCampbell\TestBench\AbstractPackageTestCase;
