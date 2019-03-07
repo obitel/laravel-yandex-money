@@ -1,6 +1,6 @@
 <?php
 
-namespace TkachevO\LaravelYandexMoney;
+namespace obitel\LaravelYandexMoney;
 
 use YandexMoney\API;
 use Illuminate\Contracts\Config\Repository;
